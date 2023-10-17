@@ -1,0 +1,30 @@
+*{
+  align-items: center;
+}
+
+.Título{
+  color: rgb(0, 129, 250);
+}
+
+ul{
+  display: flex;
+  position: relative;
+  text-align: center;
+  border-radius: 10px;
+}
+
+li{
+  display: flex;
+  position: relative;
+  text-align: center;
+  border-radius: 10px;
+  margin: 10px;
+}
+
+.character-item {
+  display: flex;
+  margin-bottom: 20px;
+  border: 2px solid rgb(182, 175, 175); 
+  padding: 10px; 
+}
+
